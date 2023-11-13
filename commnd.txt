@@ -1,0 +1,44 @@
+Microsoft Windows [Version 10.0.22631.2506]
+(c) Microsoft Corporation. All rights reserved.
+
+Distributed system  lab 
+we have written the procedure  to run client and server program 
+
+D:\All  Academy Lab\Distributed_system\socket_programming week1>gcc server.c -o server -lws2_32
+
+D:\All  Academy Lab\Distributed_system\socket_programming week1>server.exe
+WSA initialized
+Socket opened successfully
+Socket ID is 300
+Successfully bind to local port
+Started listening to local port
+dddd
+
+ddd
+fdff
+
+
+hello we have connected client and server 
+
+it good bro thank you for letting me kwon about it
+go enjoy your life with pleasure
+
+ss
+:\All  Academy Lab\Distributed_system\socket_programming week1>gcc server.c -o server -lws2_32
+
+D:\All  Academy Lab\Distributed_system\socket_programming week1>
+gcc server.c -o server -lws2_32
+
+D:\All  Academy Lab\Distributed_system\socket_programming week1gcc client.c -o client -lws2_32 
+
+D:\All  Academy Lab\Distributed_system\socket_programming week1gcc client.c -o client -lws2_32
+
+D:\All  Academy Lab\Distributed_system\socket_programming week1>client.exe
+WSA initialized
+Socket opened successfully
+Socket ID is 316
+Connected to the server
+dddd
+ddd
+
+fdff
